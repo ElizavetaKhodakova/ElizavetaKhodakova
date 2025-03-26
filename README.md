@@ -1,5 +1,7 @@
 # Hi there! 👋 I am Elizaveta Khodakova
 
+I'm a data scientist and analyst eager to collaborate on innovative projects leveraging data science, machine learning, and advanced analytics. My expertise in statistics, data visualization and quality management allows me to help organizations achieve their goals through data-driven insights. I'd welcome the opportunity to discuss potential synergies.
+
 ## Education 🎓
 
 - **Additional Education** - Data Science (2024)  

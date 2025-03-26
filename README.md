@@ -1,49 +1,3 @@
-# Привет! 👋 Я - Елизавета Ходакова
-
-## Образование 🎓
-
-- **Дополнительное образование** - Data Science (2024)  
-  Mathshub
-
-- **Магистр** - Устойчивое развитие и решения (2020)  
-  LUT, Лаппеенранта, Финляндия
-
-- **Бакалавр** - Экономика (2019)  
-  ФИНЭК, Санкт-Петербург, Россия
-
-- **Бакалавр** - Инженерная защита окружающей среды (2016)  
-  МАМК, Миккели, Финляндия
-
-## Опыт работы 💼
-
-Мой опыт находится на пересечении IT и управлении качеством на пищевом производстве (дрожжевое и пищеконцентратное), где я занималась анализом данных, созданием дашбордов с использованием Power BI и построением первых предиктивных моделей.
-
-## Основные навыки 🛠️
-
-- **Языки программирования:** Python
-- **Библиотеки:** Pandas, Numpy, Sklearn, Seaborn, Plotly, Matplotlib, PyTorch
-- **Базы данных:** SQL, MySQL, Работа с базами данных
-- **Область:** Data Science, Аналитика, Deep Learning (DL)
-- **Инструменты:** Power BI, Визуализация данных, Git, Jupyter
-- **Методы:** EDA (Exploratory Data Analysis), Сводные таблицы
-- **Машинное обучение:** Machine Learning
-
-## Интересы 🌟
-
-- Анализ данных 📊
-- Построение дашбордов 📈
-- Машинное обучение 🤖
-- Горные лыжи ⛷️
-- Активные путешествия ✈️
-
-## Сертификаты 📜
-
-Мои сертификаты доступны [здесь](https://github.com/ElizavetaKhodakova/certificates).
-
-## Контакты 📬
-
-Вы можете найти меня на [LinkedIn](https://www.linkedin.com/in/elizaveta-khodakova-362485251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) и в [телеграмме](https://t.me/Ekhodakova).
-
 # Hi there! 👋 I am Elizaveta Khodakova
 
 ## Education 🎓
@@ -63,6 +17,13 @@
 ## Work Experience 💼
 
 My experience lies at the intersection of IT and quality management in the food production industry (yeast and food concentrate), where I have been involved in data analysis, creating dashboards using Power BI, and building my first predictive models.
+
+### Achievments 🏆
+
+1. Established a robust packaging material testing system utilizing statistical tools such as regression analysis, correlation analysis, and Student's t-test. This minimized risks associated with new packaging introductions.
+2. Implemented a Customer Satisfaction Index (CSI) and revamped the complaint handling process by leveraging CRM and Power BI. This integrated data from four plants into a unified system, digitized customer satisfaction measurement, and reduced recurring systemic issues.
+3. Spearheaded the development and successful implementation of  management systems (ISO 22000:2018, FAMI-QS v6, Halal, Kosher), unlocking access to new markets including China, Turkey, Algeria, Uganda, and Ethiopia, while significantly enhancing the company's reputation.
+4. Successfully implemented pathogen management systems across three production facilities, including enhanced microbiological risk management and expanded analysis protocols. This resulted in a 23% reduction in potential contamination sources, bolstering both food safety and production hygiene standards.
 
 ## Key Skills 🛠️
 
